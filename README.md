@@ -1,6 +1,6 @@
 # Discord-Sale-Bot
 
-![](images/image1.png)
+![](images/image12.png)
 
 **Description**
 
@@ -10,7 +10,7 @@ The products are retrieved from CJ Affiliate using their API and Node.js for hos
 
 **How to add the bot**
 
-Access this ![link](https://top.gg/bot/1056668345405030410) in order to add the bot to your server using the "Invite" button on the website.
+Access this link https://top.gg/bot/1056668345405030410 in order to add the bot to your server using the "Invite" button on the website.
 
 **How it works and quick start**
 
